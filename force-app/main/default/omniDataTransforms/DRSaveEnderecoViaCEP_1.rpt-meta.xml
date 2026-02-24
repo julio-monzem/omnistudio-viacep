@@ -37,7 +37,7 @@
         <outputObjectName>Endereco_ViaCEP__c</outputObjectName>
         <requiredForUpsert>false</requiredForUpsert>
         <transformValuesMappings>{ }</transformValuesMappings>
-        <upsertKey>false</upsertKey>
+        <upsertKey>true</upsertKey>
     </omniDataTransformItem>
     <omniDataTransformItem>
         <disabled>false</disabled>
