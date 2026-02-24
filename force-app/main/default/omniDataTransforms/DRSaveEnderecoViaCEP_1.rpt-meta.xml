@@ -145,6 +145,21 @@
         <upsertKey>false</upsertKey>
     </omniDataTransformItem>
     <outputType>SObject</outputType>
+    <previewJsonData>{
+  &quot;cep&quot; : &quot;01001-000&quot;,
+  &quot;logradouro&quot; : &quot;Praça da Sé&quot;,
+  &quot;complemento&quot; : &quot;lado ímpar&quot;,
+  &quot;unidade&quot; : &quot;&quot;,
+  &quot;bairro&quot; : &quot;Sé&quot;,
+  &quot;localidade&quot; : &quot;São Paulo&quot;,
+  &quot;uf&quot; : &quot;SP&quot;,
+  &quot;estado&quot; : &quot;São Paulo&quot;,
+  &quot;regiao&quot; : &quot;Sudeste&quot;,
+  &quot;ibge&quot; : &quot;3550308&quot;,
+  &quot;gia&quot; : &quot;1004&quot;,
+  &quot;ddd&quot; : &quot;11&quot;,
+  &quot;siafi&quot; : &quot;7107&quot;
+}</previewJsonData>
     <processSuperBulk>false</processSuperBulk>
     <responseCacheTtlMinutes>0.0</responseCacheTtlMinutes>
     <rollbackOnError>false</rollbackOnError>
